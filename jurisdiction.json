@@ -1,0 +1,9 @@
+{
+  "path": "br-pe-sao-lourenco-da-mata",
+  "code": "BR-PE-SAO-LOURENCO-DA-MATA",
+  "name": "São Lourenço da Mata (city)",
+  "level": "municipality",
+  "parent": "br-pe",
+  "repo": "https://github.com/lexifina/brazil-sao-lourenco-da-mata-city-law",
+  "build": "built: the law of São Lourenço da Mata from the Câmara Municipal's SAPL"
+}
