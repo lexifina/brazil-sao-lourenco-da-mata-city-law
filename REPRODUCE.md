@@ -1,12 +1,12 @@
 # How this repository was made (São Lourenço da Mata)
 
-This file is written by the build on 2026-11-04, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Câmara Municipal de São Lourenço da Mata, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.saolourencodamata.pe.leg.br/norma/3> | 2026-11-04 | Text: Câmara Municipal de São Lourenço da Mata, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de São Lourenço da Mata, sapl.saolourencodamata.pe.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
+| Câmara Municipal de São Lourenço da Mata, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.saolourencodamata.pe.leg.br/norma/3> | 2026-11-05 | Text: Câmara Municipal de São Lourenço da Mata, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de São Lourenço da Mata, sapl.saolourencodamata.pe.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -25,7 +25,7 @@ The build made 9 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 9 laws in the record.
 - 18 tags.
@@ -40,7 +40,7 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6db025bc8bc7149d0a36384eb301e9ec340b906a5de032f57e9b6a7c8b70c8d1` (180697 bytes).
+- Corpus: sha256 `13e3787507e8471d16fefe7b5cb4b4edf3ca7e04ee7671c5b7503b733c09229b` (180697 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
