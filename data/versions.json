@@ -62,6 +62,20 @@
      "sha256": "973d3f30123903219d1ff8dfabbb7b06425773a8199b6cb373735aa06b65bc62"
     }
    ]
+  },
+  {
+   "slug": "lei-2016-02520",
+   "short": "Lei 2520/2016",
+   "title": "Lei nº 2.520, de 31 de agosto de 2016",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1328",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 4,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2016/1328/lei_2520-2016.pdf",
+     "sha256": "a939de3ba29fa417a83736c9ba3106a992382fa040461be29cf4e2b268f553b0"
+    }
+   ]
   }
  ]
 }
