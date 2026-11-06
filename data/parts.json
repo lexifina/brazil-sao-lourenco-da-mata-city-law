@@ -27,6 +27,12 @@
     "lei-2015-02454"
    ],
    "sha256": "d9f7af5db5a86d0a024a2de36fd8a1bf0ffad03e2e4329a15eae0e54caf7f77c"
+  },
+  "30-leis-017.json": {
+   "acts": [
+    "lei-2013-02398"
+   ],
+   "sha256": "d137a931deff3c4477db3f3e3372a9fd755a1bda7403c98509e1366980c35f59"
   }
  },
  "schema": 1

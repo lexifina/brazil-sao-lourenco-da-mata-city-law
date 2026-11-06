@@ -230,6 +230,20 @@
      "sha256": "6a03363c3a3ec93448161531e3dbb710e6c16b9797078c5b834ee643ad1dda95"
     }
    ]
+  },
+  {
+   "slug": "lei-2013-02398",
+   "short": "Lei 2398/2013",
+   "title": "Lei nº 2.398, de 30 de abril de 2013",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1127",
+   "versions": [
+    {
+     "from": "2013-04-30",
+     "units": 4,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2013/1127/lei_2398-2013.pdf",
+     "sha256": "902373279240760257a7781fc06d875cd4343ee094a5c7d5ac5735c6653ff836"
+    }
+   ]
   }
  ]
 }
