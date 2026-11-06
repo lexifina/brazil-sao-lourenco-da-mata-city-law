@@ -76,6 +76,160 @@
      "sha256": "a939de3ba29fa417a83736c9ba3106a992382fa040461be29cf4e2b268f553b0"
     }
    ]
+  },
+  {
+   "slug": "lei-2015-02454",
+   "short": "Lei 2454/2015",
+   "title": "Lei nº 2.454, de 26 de fevereiro de 2015",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1137",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 6,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2015/1137/lei_2454-2015.pdf",
+     "sha256": "a094cba18a1425b7cc71b1be07352cae87cddeff57865256d4cee650ad58708d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02452",
+   "short": "Lei 2452/2015",
+   "title": "Lei nº 2.452, de 19 de fevereiro de 2015",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1136",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 11,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2015/1136/lei_2452-2015.pdf",
+     "sha256": "9f4df1c1b3ea7eb07273108dcc47ccacbd824c97213ae1ede949ee84a11ba450"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02446",
+   "short": "Lei 2446/2014",
+   "title": "Lei nº 2.446, de 23 de dezembro de 2014",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1134",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 11,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2014/1134/lei_2446-2014.pdf",
+     "sha256": "6bd73b93e057f629f6028cac9a775917f9801d5049de2bcfcbd2e34ce3e779b8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02441",
+   "short": "Lei 2441/2014",
+   "title": "Lei nº 2.441, de 16 de setembro de 2014",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1133",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 4,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2014/1133/lei_2441-2014.pdf",
+     "sha256": "30feed16f4dbad8ff524c4b4abebad749dc56ab700ed09d71dbb8f0c422e69ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02440",
+   "short": "Lei 2440/2014",
+   "title": "Lei nº 2.440, de 5 de setembro de 2014",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1132",
+   "versions": [
+    {
+     "from": "2014-09-05",
+     "units": 3,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2014/1132/lei_2440-2014.pdf",
+     "sha256": "ad428d75212fcca45e24000490bf5a715207e96863a132381c262db706ef99de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02439",
+   "short": "Lei 2439/2014",
+   "title": "Lei nº 2.439, de 27 de agosto de 2014",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1131",
+   "versions": [
+    {
+     "from": "2014-08-27",
+     "units": 6,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2014/1131/lei_2439-2014.pdf",
+     "sha256": "98acdecdcea0a7bf067ccd70a04df472e9f326caa8f8508d3b13dfac1b658797"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02438",
+   "short": "Lei 2438/2014",
+   "title": "Lei nº 2.438, de 18 de junho de 2014",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1130",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 4,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2014/1130/lei_2438-2014.pdf",
+     "sha256": "b40aacdca0f0ca1d519d1f225d496b94fb715ab006fb583bd1a25deffe1303c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02430",
+   "short": "Lei 2430/2014",
+   "title": "Lei nº 2.430, de 28 de fevereiro de 2014",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1129",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 5,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2014/1129/lei_2430-2014.pdf",
+     "sha256": "5477e55045c9e99b9659d7b4255cab79ebbc1fbb1c48c246261f0c5d35c63c0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02428",
+   "short": "Lei 2428/2013",
+   "title": "Lei nº 2.428, de 20 de dezembro de 2013",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1312",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 5,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2013/1312/lei_2428-2013.pdf",
+     "sha256": "e78a1cbd551269dd68670fef67b87ad80bc6a53d8e2ae9c458ee051b339d135c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02426",
+   "short": "Lei 2426/2013",
+   "title": "Lei nº 2.426, de 16 de dezembro de 2013",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1310",
+   "versions": [
+    {
+     "from": "2013-12-16",
+     "units": 11,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2013/1310/lei_2426-2013.pdf",
+     "sha256": "64a6bd8cc792e7d0abd03057db5418b010a0e531c7862375f40073f23cbab3ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02425",
+   "short": "Lei 2425/2013",
+   "title": "Lei nº 2.425, de 16 de dezembro de 2013",
+   "url": "https://sapl.saolourencodamata.pe.leg.br/norma/1126",
+   "versions": [
+    {
+     "from": "2013-12-16",
+     "units": 6,
+     "source_url": "https://sapl.saolourencodamata.pe.leg.br/media/sapl/public/normajuridica/2013/1126/lei_2425-2013.pdf",
+     "sha256": "6a03363c3a3ec93448161531e3dbb710e6c16b9797078c5b834ee643ad1dda95"
+    }
+   ]
   }
  ]
 }
